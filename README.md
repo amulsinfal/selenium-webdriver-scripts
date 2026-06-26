@@ -29,9 +29,22 @@ Program retrieve the current page title (getTitle()) and the current browser URL
 1. [GetTitle.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/GetTitle.java)
 2. [GetCurrentURL.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/GetCurrentURL.java)
   
-### 4. WebElement commands:
+### 4. WebElement Commands:
 Verify whether a web element is enabled or disabled (isEnabled()), get value of the visible text, get the attribute value.
 1. [WebElement_IsEnabled.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_IsEnabled.java)
 2. [WebElement_IsDisplayed.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_IsDisplayed.java)
 3. [WebElement_GetText.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_GetText.java)
 4. [WebElement_GetAttribute.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_GetAttribute.java)
+
+### 5. Dropdown Handling:
+Select/deselect options in dropdowns by text, index, or value, including multi-select dropdowns.
+1. [DropDown_SelectByIndex.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_SelectByIndex.java)  
+2. [DropDown_SelectByValue.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_SelectByValue.java)  
+3. [Dropdown_SelectByVisibleText.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/Dropdown_SelectByVisibleText.java)  
+4. [DropDown_GetOptions.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_GetOptions.java)  
+5. [DropDown_GetFirstSelectedOption.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_GetFirstSelectedOption.java)  
+6. [DropDown_GetAllSelectedOption.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_GetAllSelectedOption.java)  
+7. [DropDown_IsMulitple.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_IsMulitple.java)  
+8. [DropDown_DeselectAll.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_DeselectAll.java)  
+9. [DropDown_DeselectValues.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/DropDown_DeselectValues.java)  
+
