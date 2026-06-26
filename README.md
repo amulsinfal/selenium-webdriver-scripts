@@ -29,4 +29,9 @@ Program retrieve the current page title (getTitle()) and the current browser URL
 1. [GetTitle.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/GetTitle.java)
 2. [GetCurrentURL.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/GetCurrentURL.java)
   
-### 4. WebElement commands
+### 4. WebElement commands:
+Verify whether a web element is enabled or disabled (isEnabled()), get value of the visible text, get the attribute value.
+1. [WebElement_IsEnabled.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_IsEnabled.java)
+2. [WebElement_IsDisplayed.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_IsDisplayed.java)
+3. [WebElement_GetText.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_GetText.java)
+4. [WebElement_GetAttribute.java](https://github.com/amulsinfal/selenium-webdriver-scripts/blob/main/src/test/java/programs/WebElement_GetAttribute.java)
